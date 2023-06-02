@@ -1,0 +1,8 @@
+{
+  "pmi_language_model_name": "",
+  "pmi_use_log_prob": true,
+  "pmi_lambda": 0.25,
+  "pmi_threshold": 0.35,
+  "pmi_is_conditional": true,
+  "pmi_save_unmodified_token": false
+}

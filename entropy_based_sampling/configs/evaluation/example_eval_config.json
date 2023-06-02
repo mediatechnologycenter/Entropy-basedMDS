@@ -1,0 +1,19 @@
+{
+  "evaluation_dataset": "",
+  "model_id": "",
+  "language": "german",
+  "num_beams": 3,
+  "max_src_length": 1024,
+  "min_length": 10,
+  "max_tgt_length": 100,
+  "max_articles_in_cluster": 5,
+  "start_row_to_eval": 0,
+  "rows_to_eval": -1,
+  "eval_prefix": "evaluation/outputs/",
+  "length_penalty": 2,
+  "wandb_on": false,
+  "log_output": false,
+  "print_per_step_output": false,
+  "score_reduce_strategy": "average",
+  "temperature": 1
+}

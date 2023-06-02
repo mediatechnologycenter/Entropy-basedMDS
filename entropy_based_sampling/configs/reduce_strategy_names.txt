@@ -1,0 +1,9 @@
+### The following list provides an overview of the currently implemented reduce strategies.
+### For more details see decoding_utils.py:
+
+- DynE (Original Method from Hokamp et al., where log-probabilities are averaged)
+- product
+- max
+- H_min (Minmum Entropy)
+- H_th (Max-predicted Probability Threshold)
+- Single_document_sum

@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch>=1.10.2+cu113
+transformers>=4.23.1
+datasets>=2.0.0
+evaluate>=0.2.2
+nltk>=3.6.7
+rouge-score>=0.1.2
+wandb>=0.12.14
+randomname>=0.1.5
+sentencepiece>=0.1.96
