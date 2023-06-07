@@ -66,7 +66,7 @@ python evaluate.py --config "configs/evaluation/example_eval_config.json"
 
 ## Dataset
 
-- For more information, refer to README under ```dataset```.
+- For more information, refer to the following [repository](https://github.com/mediatechnologycenter/Multi-GeNews).
   
   
 
