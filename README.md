@@ -1,4 +1,4 @@
-# Entropy-based Sampling for Abstractive Multi-document Summarization in Low-resource Settings
+# The Background Tool
 
 This repository features a novel approach to multi-document summarization, focusing on German news data. Our approach employs a combination of entropy-based sampling techniques and dynamic ensemble decoding.
 The codebase is a fork from [dynamic ensemble decoding](https://github.com/chrishokamp/dynamic-transformer-ensembles)(DynE), to which we have
